@@ -1,6 +1,6 @@
 library(ggplot2)
 library(moments)
-setwd('C:/Users/naith/OneDrive/Documents')
+setwd('C:/Users/[your username]/OneDrive/Documents')
 
 df = read.csv("Prolific Scorers Of This Decade.csv")
 View(df)
