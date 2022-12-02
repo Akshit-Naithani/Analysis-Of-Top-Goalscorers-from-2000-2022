@@ -1,0 +1,5 @@
+Footballers,Goals,Expected Goals,Assists,Expected Assists,Games Played,Goals Per Games Played,Assists Per Games Played,Shots Per 90,Shot On Target Per 90,Shooting Accuracy(in %),Attempted Passes Per Game,Completed Passes Per Game,Progressive Passes Per Game (in yards)
+Ronaldo,815,577,265,361,1124,0.72,0.23,5.71,2.53,38,21.24,17.46,67.61
+Messi,773,636,369,214,976,0.79,0.37,5.25,2.48,45.1,39.4,31.79,176.94
+Haaland,156,94,39,25,206,0.75,0.18,3.37,1.73,60,11.64,8.47,20.29
+Mbappe,231,145.8,127,55,341,0.67,0.37,4.01,1.94,52.81,16.11,12.67,39.05
