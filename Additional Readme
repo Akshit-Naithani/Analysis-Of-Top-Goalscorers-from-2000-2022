@@ -1,0 +1,12 @@
+This is a simple analysis project made by me for my B.Tech 2nd Year Probability and Statistics project. It is made in R studio and there are the CSV files uploaded
+along with my presentation as well.
+
+First of all to run this code you will require a program like R-Studio or whatever you are comfortable with.
+
+Two packages used in this program ggplot2 and moments can be downloaded from Tools -> Instal Packages and then searching the names of the libraries if you are using
+R-Studio.
+
+In the code you can either change the [your username] in setwd() to your username and putting the CSVs in Documents folder or change the location in setwd to wherever 
+you are storing the CSV files.
+
+If you want to know your username go to file manager/This PC/C:/Users and check the username.
